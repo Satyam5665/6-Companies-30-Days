@@ -29,4 +29,8 @@ Welcome to the repository for Arsh Goyal's DSA Challenge! In this challenge, I'v
 7. **Ways_to_Reach_End_After_K_Steps.cpp**
    - Problem Description: Given an array of integers representing the maximum number of steps that can be made forward from that element, determine the number of ways to reach the end of the array after exactly K steps.
 
+
+## Day-2:
+
+8. **Run_Length_Encoding.cpp**
 ## Happy Coding! 🚀
